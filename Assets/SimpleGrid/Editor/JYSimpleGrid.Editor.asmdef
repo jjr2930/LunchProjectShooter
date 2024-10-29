@@ -1,0 +1,18 @@
+{
+    "name": "JYSimpleGrid.Editor",
+    "rootNamespace": "JYSimpleGrid.Editor",
+    "references": [
+        "GUID:727d90f36b297de49857da217722be16"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
